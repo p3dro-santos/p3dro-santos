@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**Pedro-Santos01/Pedro-Santos01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**s-pedro/s-pedro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=Pedro-Santos01&show_icons=true&theme=dark" width="400">
+<img src="https://github-readme-stats.vercel.app/api?username=s-pedro&show_icons=true&theme=dark" width="400">
